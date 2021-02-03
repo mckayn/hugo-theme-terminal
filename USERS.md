@@ -47,7 +47,10 @@
 - https://markopolo123.github.io **Markopolo** (DevOps Engineer)
 - https://mcwertgaming.github.io **Damon Leven** (Student & Software Developer)
 - https://sethsimmons.me **Seth Simmons** (Information Security Engineer, Cryptocurrency Writer)
-
+- https://fin.kieyne.de/de/ **Max Kieyne** (Senior IT-Security Consultant, Cloud Engineer, A&R)
+- https://tech.kieyne.de/en/ **Max Kieyne** (Senior IT-Security Consultant, Cloud Engineer, A&R)
+- https://blog.kieyne.de/en/ **Maximilian Kieyne** (Senior IT-Security Consultant, Cloud Engineer, A&R)
+- https://music.kieyne.de/en/ **Maximilian Kieyne** (Senior IT-Security Consultant, Cloud Engineer, A&R)
 <!--
  TEMPLATE:
 
